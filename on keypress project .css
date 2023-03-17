@@ -1,0 +1,20 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+
+}
+
+body{
+    background-color: black;
+}
+    #img1{
+    height: 70vh;
+    width: 80vw;
+    margin-top: 90px;
+    margin-left: 130px;
+    border-radius: 25px;
+    box-shadow: cyan 4px 4px , blueviolet -4px -4px;
+}
+
+
